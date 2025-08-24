@@ -1,4 +1,4 @@
-# A Study on Loss for Unsupervised Adversarial Training for Contrastive Models
+# SLAFCoM: A Study on Loss Functions for Adversarial Finetuning of Contrastive Models
 [Aayan Yadav](https://github.com/ydvaayan), [Shree Sighi](https://github.com/ShreeSinghi)
 
 Advisor: [Prof. Sanjeev Kumar](https://scholar.google.co.in/citations?user=FWh8EFkAAAAJ&hl=en)
