@@ -3,6 +3,10 @@
 
 Advisor: [Prof. Sanjeev Kumar](https://scholar.google.co.in/citations?user=FWh8EFkAAAAJ&hl=en)
 
+## Docs
+1. Read report at [docs/report.pdf](docs/report.pdf)
+2. Find our presentation at [docs/presentation.pptx](docs/presentation.pptx)
+
 ## Setup
 ```bash
 pip install -r requirements.txt
